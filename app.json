@@ -1,0 +1,7 @@
+{
+  "name": "Go Fiber Example",
+  "description": "A barebones Go app using Fiber",
+  "repository": "https://github.com/mirkoperillo/heroku-go-sample",
+  "keywords": ["go", "fiber"]
+}
+
