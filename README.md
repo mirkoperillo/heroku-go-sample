@@ -14,6 +14,3 @@ A Go Fiber application ready to be deployed to Heroku
 ## License
 
 Application is released under MIT license. 
-
-`gopher.png` image is by Marta Sansalone. Use it only for non-commercial purpose.
-
